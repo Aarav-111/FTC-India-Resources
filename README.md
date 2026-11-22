@@ -90,7 +90,7 @@ The chassis is the base for everything else. We use a mecanum drive.
 
 ### Mecanum Wheels Presentation
 
-A 21 slide deck by Aarav J. on what mecanum wheels are, why they help in FTC, and how to program them. It has animated examples that compare tank drive and mecanum drive. The times in those examples are illustrative, not measured.
+A 23 slide deck by Aarav J. on what mecanum wheels are, why they help in FTC, and how to program them. It has animated examples that compare tank drive and mecanum drive. The times in those examples are illustrative, not measured.
 
 | Format | Link |
 |---|---|

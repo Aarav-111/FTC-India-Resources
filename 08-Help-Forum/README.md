@@ -221,7 +221,7 @@ In [`02-Chassis`](../02-Chassis), by Aarav J.:
 - [PowerPoint](../02-Chassis/Mecanum%20Wheels%20Presentation.pptx)
 - [Google Slides](https://docs.google.com/presentation/d/10t6m5lrtCYghSzNBLcLgv_6zWi-kxssT0vhTHXqJd7Y/edit)
 
-The deck covers how mecanum wheels move, simple trigonometry for driving at any angle, driving on curves, normalising wheel powers, step-by-step calculations, Java for robot-centric and field-centric drive, and testing. The main README describes the current deck as 21 slides, including animated "What are mecanum wheels?" and "Why use mecanum in FTC?" sections.
+The deck covers how mecanum wheels move, simple trigonometry for driving at any angle, driving on curves, normalising wheel powers, step-by-step calculations, Java for robot-centric and field-centric drive, and testing. The main README describes the current deck as 23 slides, including animated "What are mecanum wheels?" and "Why use mecanum in FTC?" sections.
 
 **Is there a guide to build a mecanum chassis?**
 

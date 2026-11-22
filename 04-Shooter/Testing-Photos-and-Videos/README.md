@@ -1,6 +1,6 @@
 # Testing videos and photos
 
-Photos and a short video of the finished V3 shooter on the robot. Both Prolabs OP2 sheets are fitted, one on each side of the shooter intake.
+Photos and short videos of the finished V3 shooter on the robot. Both OP2 sheets are fitted, one on each side of the shooter intake.
 
 ## Photos
 
@@ -17,5 +17,6 @@ Photos and a short video of the finished V3 shooter on the robot. Both Prolabs O
 | File | What it shows |
 | --- | --- |
 | [V3_walkaround.mov](./V3_walkaround.mov) | Short walkaround of the finished build (about 6 seconds, robot not moving). This is not a shooting test |
+| [V3 shooter test highlights (silent).mp4](./V3%20shooter%20test%20highlights%20(silent).mp4) | Our first shooting test clip (about 26 seconds, silent). 11 shots in a row from the same spot at a fixed distance: 10 land in the box, the last one hits the box edge and falls out |
 
-Shooting test videos are not online yet. When they are, the assembly guide will get a QR code that links to them ("Scan for testing videos").
+This is a short, self-tested clip, not a full test report. We have not published full shooting test data yet.
