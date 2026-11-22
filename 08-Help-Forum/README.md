@@ -6,7 +6,7 @@ We use simple English, and we only state facts we can stand behind. If something
 
 This page is a team help guide. It is not the official rule book. For game rules, awards, inspection, and what is legal, the [FTC Competition Manual](https://ftc-resources.firstinspires.org/ftc/game/manual) is the source of truth. FIRST publishes Team Updates during the season, so please re-check the latest English PDF on the [Game and Season Materials](https://ftc-resources.firstinspires.org/ftc/game) page before an event. For software and hardware setup, use [FTC Docs](https://ftc-docs.firstinspires.org/).
 
-If you have a question, ***[Ask your question here](https://forms.gle/SyWnmo3xL4crevMCA).***
+If you have a question, ###***[Ask your question here](https://forms.gle/SyWnmo3xL4crevMCA).***
 
 ## Contents
 
