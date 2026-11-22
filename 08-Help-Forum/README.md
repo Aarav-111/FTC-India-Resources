@@ -659,7 +659,7 @@ Rule I301 says to bring the complete robot and supporting equipment: the robot a
 
 **Inspection is not a complete search of every part.** The manual says teams must still follow the spirit of the construction rules even if an inspector does not check every item. Trying to hide an illegal part is a Competition Integrity Contract issue.
 
-If something is still unclear, [Ask your question here](https://forms.gle/SyWnmo3xL4crevMCA).
+### If something is still unclear, ***[Ask your question here](https://forms.gle/SyWnmo3xL4crevMCA).***
 
 
 ---
@@ -983,7 +983,7 @@ These points come from the [Camera Integration Plan](../05-Vision-AprilTag/Camer
 | Judges never saw your video or website | Links in the portfolio are not reviewed | Put the evidence on the pages. Do not depend on a URL or QR code |
 | Interview ran out of time before the important point | The story was not practised | Practise a short student-led talk: problem, test, change, result |
 
-If you still cannot fix the problem, [Ask your question here](https://forms.gle/SyWnmo3xL4crevMCA).
+### If you still cannot fix the problem, ***[Ask your question here](https://forms.gle/SyWnmo3xL4crevMCA).***
 
 ---
 
@@ -1071,7 +1071,7 @@ This glossary explains terms used in this Help Forum and in the linked guides. O
 
 If this page and the guides do not answer your question, please ask us.
 
-To send us a question, [Ask your question here](https://forms.gle/SyWnmo3xL4crevMCA).
+### To send us a question, ***[Ask your question here](https://forms.gle/SyWnmo3xL4crevMCA).***
 
 You can also:
 
